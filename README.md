@@ -1,12 +1,12 @@
 # Welcome to My Coding Journey! 👋
 
-Hey there! 👋 I'm [Your Name], a 17-year-old passionate about coding and on a journey of self-discovery in the vast world of programming. 🚀 I've been immersed in the exciting realm of coding for about three years now, and I'm thrilled to share my projects and progress with you.
+Hey there! 👋 I'm Taha, a 17-year-old passionate about coding and on a journey of self-discovery in the vast world of programming. 🚀 I've been immersed in the exciting realm of coding for about three years now, and I'm thrilled to share my projects and progress with you.
 
 ## 🌟 About Me
 
 - 🎓 I'm a high school student with a deep love for problem-solving and creativity.
 - 💻 Started coding at the age of 14 and never looked back!
-- 🚧 Currently exploring [Your Favorite Languages/Frameworks], and always open to learning new things.
+- 🚧 Currently exploring JAVA, and always open to learning new things.
 
 ## 🚀 Projects
 
